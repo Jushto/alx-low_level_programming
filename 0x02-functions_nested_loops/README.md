@@ -5,3 +5,7 @@
 3 - checking for lowercase characters
 4 - checking for alphabetic characters
 5 - check sign of number
+6 - print absolute value of a number
+7 - print last digit of a number
+10 - add a+b
+11 - print natural numbers from n to 98
