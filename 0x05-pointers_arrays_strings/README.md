@@ -3,3 +3,4 @@
 1 - swap values of 2 integers
 2 - function returning length of a string
 3 - function that prints a string to std out
+4 - function printing a string in reverse
