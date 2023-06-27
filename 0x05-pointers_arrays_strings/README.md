@@ -6,3 +6,5 @@
 4 - function printing a string in reverse
 5 - function to reverse a string
 6 - function to print every other character
+7 - function to print half of a string
+8 - function to print array
