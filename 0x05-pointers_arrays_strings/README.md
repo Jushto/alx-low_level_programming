@@ -5,3 +5,4 @@
 3 - function that prints a string to std out
 4 - function printing a string in reverse
 5 - function to reverse a string
+6 - function to print every other character
