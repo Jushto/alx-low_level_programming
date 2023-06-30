@@ -2,4 +2,5 @@
 1 - function concatenating two strings and uses at most n bytes from src
 2 - function copying a string
 3 - function comparing two strings
-4 - function to reverse gan array 
+4 - function to reverse an array 
+5 - function changing lowercase to uppercase
