@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdlib.h>
 
 /**
  * create_array - function to create an array and initialize it
@@ -13,7 +12,7 @@
 char *create_array(unsigned int size, char c)
 {
 	char *p;
-	int i;
+	unsigned int i;
 
 	p = (char *)malloc(size * sizeof(char));
 

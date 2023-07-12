@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include "main.h"
 /**
  * print_array - function to print array
  * @a: pointer to array
@@ -19,4 +19,4 @@ void print_array(int *a, int n)
 		else
 			printf("%d\n", a[i]);
 	}
-
+}
