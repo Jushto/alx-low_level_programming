@@ -2,6 +2,7 @@
 #define POPPY_H
 
 #include <stdlib.h>
+
 /**
  * struct dog - information on a dog
  * @name: First member
@@ -22,7 +23,7 @@ struct dog
  * dog_t - Typedef for struct dog
  */
 
-typedef stuct dog dog_t;
+typedef struct dog dog_t;
 
 void init_dog(struct dog *d, char *name, float age, char *owner);
 void print_dog(struct dog *d);
