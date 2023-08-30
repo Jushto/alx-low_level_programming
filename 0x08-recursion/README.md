@@ -7,4 +7,5 @@
 	factorial of 0 == 1
 4 - functin to return value of x traised to y
 	if (y < 0), -1
-
+5 - function to return natural sqrt of a number using recursion
+6 - function for primality of a number
