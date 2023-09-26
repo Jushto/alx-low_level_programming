@@ -9,4 +9,4 @@
 4 - free a linked list
 5 - free a linked list and set head to NULL
 10 - delete node at specified position
-
+100 - reverse a linked list with only two variables
