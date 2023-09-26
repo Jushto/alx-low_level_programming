@@ -8,3 +8,5 @@
 9 - insert a new node at a given position
 4 - free a linked list
 5 - free a linked list and set head to NULL
+10 - delete node at specified position
+
